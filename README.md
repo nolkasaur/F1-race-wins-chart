@@ -2,6 +2,10 @@
 
 **Top 20 number of race wins by drivers from 1950 to 2021**
 
+Compressed demo visualization:
+
+https://user-images.githubusercontent.com/7191666/182831740-82f805bb-005b-4029-bc19-a34a65429071.mp4
+
 https://observablehq.com/d/a44c1c0df7579abb@3068
 
 View this notebook in your browser by running a web server in this folder. For
