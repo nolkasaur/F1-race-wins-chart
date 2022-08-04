@@ -1,0 +1,14 @@
+{
+  "name": "a44c1c0df7579abb",
+  "main": "a44c1c0df7579abb@3068.js",
+  "version": "3068.0.0",
+  "homepage": "https://observablehq.com/d/a44c1c0df7579abb",
+  "author": {
+    "name": "Bruno Firmino",
+    "url": "https://observablehq.com/@nolkasaur"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
